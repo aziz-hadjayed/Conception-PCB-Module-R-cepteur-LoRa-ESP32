@@ -1,0 +1,247 @@
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal'.
+Info: Processing symbol 'J1:Connector_Coaxial:WR-MMCX_Wuerth_66012102111404_Vertical'.
+Info: Processing symbol 'C_VCC1:Capacitor_SMD:C_01005_0402Metric'.
+Info: Processing symbol 'M1:'.
+Info: Processing symbol 'M2:'.
+Info: Processing symbol 'U3:RF_Module:ESP32-WROOM-32'.
+Info: Processing symbol 'C_GND1:Capacitor_SMD:CP_Elec_6.3x5.3'.
+Info: Processing symbol 'U4:RF_Module:RAK811'.
+Info: Total warnings: 0, errors: 2.
+Info: Processing symbol 'Button_RST1:Button_Switch_THT:SW_PUSH_1P1T_6x3.5mm_H5.0_APEM_MJTP1250'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal'.
+Changed U4 value from RAK811 to RAK811-HF-AU915.
+Connected U3 pin 37 to unconnected-(U3-IO23-Pad37).
+Connected U3 pin 39 to GND.
+Add net unconnected-(U3-IO27-Pad12).
+Connected U3 pin 12 to unconnected-(U3-IO27-Pad12).
+Add net unconnected-(U3-IO13-Pad16).
+Connected U3 pin 16 to unconnected-(U3-IO13-Pad16).
+Add net unconnected-(U3-IO2-Pad24).
+Connected U3 pin 24 to unconnected-(U3-IO2-Pad24).
+Connected U3 pin 39 to GND.
+Connected U3 pin 39 to GND.
+Connected U3 pin 39 to GND.
+Add net unconnected-(U3-SENSOR_VP-Pad4).
+Add net unconnected-(U3-SHD/SD2-Pad17).
+Added U4 (footprint 'RF_Module:RAK811').
+Connected U3 pin 17 to unconnected-(U3-SHD/SD2-Pad17).
+Add net unconnected-(U3-IO25-Pad10).
+Updated U4 symbol association from  to /4b627cb5-0c1b-4f87-8bff-235a2a4fb09b.
+Connected U3 pin 10 to unconnected-(U3-IO25-Pad10).
+Connected U3 pin 39 to GND.
+Connected U3 pin 39 to GND.
+Changed REF** reference designator to U4.
+Connected U3 pin 39 to GND.
+Connected U3 pin 39 to GND.
+Add net unconnected-(U3-SENSOR_VN-Pad5).
+Connected U3 pin 5 to unconnected-(U3-SENSOR_VN-Pad5).
+Connected U3 pin 2 to +3.3V.
+Connected U3 pin 18 to unconnected-(U3-SWP/SD3-Pad18).
+Connected U3 pin 4 to unconnected-(U3-SENSOR_VP-Pad4).
+Add net Net-(M2-PWM).
+Connected U3 pin 31 to Net-(M2-PWM).
+Connected U3 pin 38 to GND.
+Connected U3 pin 39 to GND.
+Add net unconnected-(U3-SDI/SD1-Pad22).
+Connected U3 pin 22 to unconnected-(U3-SDI/SD1-Pad22).
+Add net unconnected-(U3-IO12-Pad14).
+Connected U3 pin 14 to unconnected-(U3-IO12-Pad14).
+Connected U3 pin 39 to GND.
+Add net Net-(U3-TXD0/IO1).
+Connected U3 pin 35 to Net-(U3-TXD0/IO1).
+Connected U3 pin 39 to GND.
+Connected U3 pin 39 to GND.
+Add net unconnected-(U3-IO23-Pad37).
+Add net unconnected-(U3-IO35-Pad7).
+Connected U3 pin 7 to unconnected-(U3-IO35-Pad7).
+Connected U3 pin 39 to GND.
+Connected U3 pin 15 to GND.
+Connected U3 pin 39 to GND.
+Add net unconnected-(U3-IO33-Pad9).
+Connected U3 pin 9 to unconnected-(U3-IO33-Pad9).
+Add net unconnected-(U3-IO34-Pad6).
+Connected U3 pin 6 to unconnected-(U3-IO34-Pad6).
+Add net unconnected-(U3-SDO/SD0-Pad21).
+Connected U3 pin 21 to unconnected-(U3-SDO/SD0-Pad21).
+Add net unconnected-(U3-IO16-Pad27).
+Connected U3 pin 27 to unconnected-(U3-IO16-Pad27).
+Connected U3 pin 39 to GND.
+Connected U4 pin 2 to unconnected-(U4-PB12-Pad2).
+Connected U4 pin 1 to Net-(C_GND1-Pad1).
+Add net unconnected-(U4-PB4-Pad9).
+Connected U4 pin 9 to unconnected-(U4-PB4-Pad9).
+Add net unconnected-(U4-PA8-Pad5).
+Connected U4 pin 5 to unconnected-(U4-PA8-Pad5).
+Add net unconnected-(U4-PB5-Pad16).
+Connected U4 pin 16 to unconnected-(U4-PB5-Pad16).
+Connected U4 pin 21 to Net-(C_GND1-Pad1).
+Add net unconnected-(U4-PA15-Pad14).
+Connected U4 pin 14 to unconnected-(U4-PA15-Pad14).
+Connected U4 pin 11 to Net-(U4-VCC).
+Add net unconnected-(U4-PA14-Pad13).
+Connected U4 pin 13 to unconnected-(U4-PA14-Pad13).
+Add net unconnected-(U4-PB12-Pad2).
+Connected U4 pin 12 to Net-(C_GND1-Pad1).
+Connected U4 pin 17 to Net-(U4-BOOT0).
+Connected U4 pin 33 to Net-(J1-In).
+Add net unconnected-(U4-PB9-Pad19).
+Connected U4 pin 19 to unconnected-(U4-PB9-Pad19).
+Add net unconnected-(U4-PB2-Pad27).
+Connected U4 pin 27 to unconnected-(U4-PB2-Pad27).
+Add net unconnected-(U4-PB14-Pad3).
+Connected U4 pin 3 to unconnected-(U4-PB14-Pad3).
+Add net unconnected-(U4-PB3-Pad15).
+Connected U4 pin 15 to unconnected-(U4-PB3-Pad15).
+Connected U4 pin 6 to Net-(U3-RXD0/IO3).
+Connected U4 pin 28 to Net-(C_GND1-Pad1).
+
+
+Connected U4 pin 34 to Net-(C_GND1-Pad1).
+Updated U4 sheetname to '/'.
+Updated U4 sheetfile to 'control_camera_Kicad.kicad_sch'.
+Updated U4 footprint filters to 'RAK811*'.
+Add net unconnected-(U4-PA2-Pad20).
+Connected U4 pin 20 to unconnected-(U4-PA2-Pad20).
+Add net unconnected-(U4-PA0-Pad23).
+Connected U4 pin 23 to unconnected-(U4-PA0-Pad23).
+Add net unconnected-(U4-PA1-Pad22).
+Connected U4 pin 22 to unconnected-(U4-PA1-Pad22).
+Add net unconnected-(U4-PB11-Pad26).
+Connected U4 pin 26 to unconnected-(U4-PB11-Pad26).
+Connected U4 pin 32 to Net-(C_GND1-Pad1).
+Connected U4 pin 31 to Net-(C_GND1-Pad1).
+Connected U4 pin 24 to Net-(U4-~{RST}).
+Updated U4 fields.
+Add net unconnected-(U4-PB10-Pad25).
+Connected U4 pin 25 to unconnected-(U4-PB10-Pad25).
+Connected U4 pin 30 to Net-(C_GND1-Pad1).
+Add net unconnected-(U4-PB15-Pad4).
+Connected U4 pin 4 to unconnected-(U4-PB15-Pad4).
+Add net unconnected-(U4-PA13-Pad10).
+Connected U4 pin 10 to unconnected-(U4-PA13-Pad10).
+Connected U4 pin 7 to Net-(U3-TXD0/IO1).
+Add net unconnected-(U4-PA12-Pad8).
+Connected U4 pin 8 to unconnected-(U4-PA12-Pad8).
+Connected U4 pin 29 to Net-(C_GND1-Pad1).
+Add net unconnected-(U4-PB8-Pad18).
+Connected U4 pin 18 to unconnected-(U4-PB8-Pad18).
+Connected J1 pin 2 to GND.
+Updated C_VCC1 footprint filters to 'C_*'.
+Connected C_VCC1 pin 1 to +3.3V.
+Add net Net-(U4-VCC).
+Connected C_VCC1 pin 2 to Net-(U4-VCC).
+Added J1 (footprint 'Connector_Coaxial:WR-MMCX_Wuerth_66012102111404_Vertical').
+Changed REF** reference designator to J1.
+Changed J1 value from WR-MMCX_Wuerth_66012102111404_Vertical to SMA.
+Updated J1 symbol association from  to /c586908b-2f8d-436d-8860-25fa73f2f3df.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'control_camera_Kicad.kicad_sch'.
+Updated J1 footprint filters to '*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*'.
+Add net Net-(J1-In).
+Connected J1 pin 1 to Net-(J1-In).
+Updated C_VCC1 sheetfile to 'control_camera_Kicad.kicad_sch'.
+Connected J1 pin 2 to GND.
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal to 10 k.
+Updated R1 symbol association from  to /797121c5-1bc5-49e4-b470-96427dcaba2b.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'control_camera_Kicad.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Add net Net-(U4-~{RST}).
+Connected R1 pin 2 to Net-(U4-~{RST}).
+Connected R1 pin 1 to +3.3V.
+Connected U3 pin 39 to GND.
+Updated C_GND1 symbol association from  to /796abb1b-6c22-4ce8-8fe2-962ed9de1dc7.
+Added Button_RST1 (footprint 'Button_Switch_THT:SW_PUSH_1P1T_6x3.5mm_H5.0_APEM_MJTP1250').
+Changed REF** reference designator to Button_RST1.
+Changed Button_RST1 value from SW_PUSH_1P1T_6x3.5mm_H5.0_APEM_MJTP1250 to SW_Push.
+Updated Button_RST1 symbol association from  to /e29caa5c-9b88-4870-b1b3-e3859209a43b.
+Updated Button_RST1 fields.
+Updated Button_RST1 sheetname to '/'.
+Updated Button_RST1 sheetfile to 'control_camera_Kicad.kicad_sch'.
+Add net GND.
+Connected Button_RST1 pin 1 to GND.
+Add net +3.3V.
+Connected Button_RST1 pin 2 to +3.3V.
+Added C_GND1 (footprint 'Capacitor_SMD:CP_Elec_6.3x5.3').
+Changed REF** reference designator to C_GND1.
+Changed C_GND1 value from CP_Elec_6.3x5.3 to 10 µ.
+Added R2 (footprint 'Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal').
+Updated C_GND1 fields.
+Updated C_GND1 sheetname to '/'.
+Updated C_GND1 sheetfile to 'control_camera_Kicad.kicad_sch'.
+Updated C_GND1 footprint filters to 'C_*'.
+Add net Net-(C_GND1-Pad1).
+Connected C_GND1 pin 1 to Net-(C_GND1-Pad1).
+Connected C_GND1 pin 2 to GND.
+Added C_VCC1 (footprint 'Capacitor_SMD:C_01005_0402Metric').
+Changed REF** reference designator to C_VCC1.
+Changed C_VCC1 value from C_01005_0402Metric to 100 nF.
+Updated C_VCC1 symbol association from  to /20450faf-04d3-448b-9853-99484d07cb11.
+Updated C_VCC1 fields.
+Updated C_VCC1 sheetname to '/'.
+Add net unconnected-(U3-IO4-Pad26).
+Connected U3 pin 39 to GND.
+Add net unconnected-(U3-NC-Pad32).
+Connected U3 pin 32 to unconnected-(U3-NC-Pad32).
+Add net unconnected-(U3-SCS/CMD-Pad19).
+Connected U3 pin 19 to unconnected-(U3-SCS/CMD-Pad19).
+Add net unconnected-(U3-IO22-Pad36).
+Connected U3 pin 36 to unconnected-(U3-IO22-Pad36).
+Connected U3 pin 1 to GND.
+Add net unconnected-(U3-IO17-Pad28).
+Connected U3 pin 28 to unconnected-(U3-IO17-Pad28).
+Add net unconnected-(U3-IO21-Pad33).
+Connected U3 pin 33 to unconnected-(U3-IO21-Pad33).
+Add net unconnected-(U3-IO0-Pad25).
+Connected U3 pin 25 to unconnected-(U3-IO0-Pad25).
+Connected U3 pin 30 to Net-(M1-PWM).
+Connected U3 pin 26 to unconnected-(U3-IO4-Pad26).
+Connected U3 pin 39 to GND.
+Add net unconnected-(U3-IO15-Pad23).
+Connected U3 pin 23 to unconnected-(U3-IO15-Pad23).
+Add net unconnected-(U3-IO14-Pad13).
+Connected U3 pin 13 to unconnected-(U3-IO14-Pad13).
+Add net unconnected-(U3-IO26-Pad11).
+Connected U3 pin 11 to unconnected-(U3-IO26-Pad11).
+Add net unconnected-(U3-IO5-Pad29).
+Connected U3 pin 29 to unconnected-(U3-IO5-Pad29).
+Add net unconnected-(U3-SWP/SD3-Pad18).
+Add net unconnected-(U3-SCK/CLK-Pad20).
+Connected U3 pin 20 to unconnected-(U3-SCK/CLK-Pad20).
+Connected U3 pin 39 to GND.
+Updated U3 fields.
+Changed R2 value from R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal to 100 k.
+Updated R2 symbol association from  to /226ff3ae-40c3-42b8-a443-880949cd37a8.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'control_camera_Kicad.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Connected R2 pin 2 to GND.
+Add net Net-(U4-BOOT0).
+Connected R2 pin 1 to Net-(U4-BOOT0).
+Added U3 (footprint 'RF_Module:ESP32-WROOM-32').
+Changed REF** reference designator to U3.
+Updated U3 symbol association from  to /382ebd30-ce3a-4e7b-b4ce-6c5654bc04f4.
+Changed REF** reference designator to R2.
+Updated U3 sheetname to '/'.
+Updated U3 sheetfile to 'control_camera_Kicad.kicad_sch'.
+Updated U3 footprint filters to 'ESP32?WROOM?32*'.
+Add net unconnected-(U3-IO32-Pad8).
+Connected U3 pin 8 to unconnected-(U3-IO32-Pad8).
+Connected U3 pin 39 to GND.
+Add net unconnected-(U3-EN-Pad3).
+Connected U3 pin 3 to unconnected-(U3-EN-Pad3).
+Add net Net-(U3-RXD0/IO3).
+Connected U3 pin 34 to Net-(U3-RXD0/IO3).
+Connected U3 pin 39 to GND.
+Connected U3 pin 39 to GND.
+Add net Net-(M1-PWM).
+Error: Cannot add M1 (no footprint assigned).
+Error: Cannot add M2 (no footprint assigned).
+
+
+Info: Total warnings: 0, errors: 2.
